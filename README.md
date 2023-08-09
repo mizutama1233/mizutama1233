@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- [x] Python
+- [x] HTML
+- [x] CSS
+- [ ] Javascript
+- [ ] Golang
 <!--
 **mizutama1233/mizutama1233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
