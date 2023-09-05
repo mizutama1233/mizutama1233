@@ -5,6 +5,8 @@
 - [x] CSS
 - [ ] Javascript
 - [ ] Golang
+- [ ] Ruby
+- [ ] c++
 <!--
 **mizutama1233/mizutama1233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
