@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![:name](https://count.getloli.com/get/@:mizutama1233)
+
 - [x] Python
 - [x] HTML
 - [x] CSS
