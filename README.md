@@ -5,7 +5,7 @@
 - [x] Python
 - [x] HTML
 - [x] CSS
-- [ ] Javascript
+- [x] Javascript
 - [ ] Golang
 - [ ] Ruby
 - [ ] c++
