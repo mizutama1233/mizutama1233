@@ -1,7 +1,6 @@
 <div style="text-align: center;">
-    ## Hi there 👋
-
-    **![Loli Counter](https://count.getloli.com/get/@:mizutama1233)**
+## Hi there 👋
+**![Loli Counter](https://count.getloli.com/get/@:mizutama1233)**
 </div>
 
 
