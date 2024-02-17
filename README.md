@@ -2,7 +2,7 @@
   
 **![Loli Counter](https://count.getloli.com/get/@:mizutama1233)**
 
-### スキル
+### 少しできる
 
 - [x] Python
 - [x] HTML
@@ -11,6 +11,5 @@
 
 ### 学習中
 
-- [ ] Golang
 - [ ] Ruby
 - [ ] C++
