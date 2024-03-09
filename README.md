@@ -1,5 +1,5 @@
 ## Hi there 👋
-  ![loli counter](https://count.getloli.com/get/@:mizutama1233)"
+  ![loli counter](https://count.getloli.com/get/@:mizutama1233)
 
 ### 少しできる
 
