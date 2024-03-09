@@ -1,7 +1,5 @@
 ## Hi there 👋
-  <div align="center">
-    <img src="[loli counter](https://count.getloli.com/get/@:mizutama1233)">
-  </div>
+  ![loli counter](https://count.getloli.com/get/@:mizutama1233)"
 
 ### 少しできる
 
