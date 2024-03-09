@@ -1,16 +1,14 @@
-<div style="text-align: center;">
-  ## Hi there 
-  ![loli counter](https://count.getloli.com/get/@:mizutama1233)
+## Hi there 
+![loli counter](https://count.getloli.com/get/@:mizutama1233)
 
-  ### 少しできる
+### 少しできる
 
-  - [x] Python
-  - [x] HTML
-  - [x] CSS
-  - [x] Javascript
+- [x] Python
+- [x] HTML
+- [x] CSS
+- [x] Javascript
 
-  ### 学習中
+### 学習中
 
-  - [ ] Ruby
-  - [ ] C++
-</div>
+- [ ] Ruby
+- [ ] C++
