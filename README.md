@@ -3,7 +3,7 @@
 
   <img src="https://count.getloli.com/get/@:mizutama1233"/>
 
-  <div style="display: flex;">
+  <div>
     <h3>少しできる</h3>
     <div>
       <input type="checkbox" checked name="python">
@@ -22,8 +22,7 @@
       <label for="html">HTML</label>
     </div>
   </div>
-  
-  <div style="display:flex;">
+  <div>
     <h3>学習中</h3>
     <div>
       <input type="checkbox" checked name="ruby">
