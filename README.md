@@ -1,7 +1,7 @@
 <div align=center>
-  <h2>Hi there 👋</h2>
+  <h1>Hi there 👋</h1>
 
   <img src="https://count.getloli.com/get/@:mizutama1233"/>
 
-  <h3>少しできる</h3>
+  <h2>少しできる</h1>
   <img src="https://skillicons.dev/icons?i=html,css,js,py">
