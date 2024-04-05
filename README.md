@@ -3,34 +3,15 @@
 
   <img src="https://count.getloli.com/get/@:mizutama1233"/>
 
-  <div>
-    <h3>少しできる</h3>
-    <div>
-      <input type="checkbox" checked name="python">
-      <label for="python">Python</label>
-    </div>
-    <div>
-      <input type="checkbox" checked name="js">
-      <label for="js">Javascript</label>
-    </div>
-    <div>
-      <input type="checkbox" checked name="css">
-      <label for="css">CSS</label>
-    </div>
-    <div>
-      <input type="checkbox" checked name="html">
-      <label for="html">HTML</label>
-    </div>
-  </div>
-  <div>
-    <h3>学習中</h3>
-    <div>
-      <input type="checkbox" checked name="ruby">
-      <label for="ruby">Ruby</label>
-    </div>
-    <div>
-      <input type="checkbox" checked name="cpp">
-      <label for="cpp">C++</label>
-    </div>
-  </div>
-</div>
+  <h3>少しできる</h3>
+  <p>Python </p><img src="https://skillicons.dev/icons?i=py">
+
+  <p>Javascript </p><img src="https://skillicons.dev/icons?i=js">
+
+  <p>CSS </p><img src="https://skillicons.dev/icons?i=css">
+
+  <p>HTML </p><img src="https://skillicons.dev/icons?i=html,css,js,py,go,java">
+  
+  <h3>学習中</h3>
+  <p>Ruby </p><img src="https://skillicons.dev/icons?i=ruby">
+  <p>C++ </p><img src="https://skillicons.dev/icons?i=cpp">
