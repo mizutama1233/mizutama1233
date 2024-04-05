@@ -10,7 +10,7 @@
 
   <p>CSS </p><img src="https://skillicons.dev/icons?i=css">
 
-  <p>HTML </p><img src="https://skillicons.dev/icons?i=html,css,js,py,go,java">
+  <p>HTML </p><img src="https://skillicons.dev/icons?i=html">
   
   <h3>学習中</h3>
   <p>Ruby </p><img src="https://skillicons.dev/icons?i=ruby">
