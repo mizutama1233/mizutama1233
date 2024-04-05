@@ -2,6 +2,5 @@
   <h1>Hi there 👋</h1>
 
   <img src="https://count.getloli.com/get/@:mizutama1233"/>
-
-  <h2>少しできる</h1>
+  
   <img src="https://skillicons.dev/icons?i=html,css,js,py">
