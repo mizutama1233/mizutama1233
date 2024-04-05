@@ -1,5 +1,5 @@
 <div align=center>
-  <h2>Hi there</h2>
+  <h2>Hi there 👋</h2>
 
   <img src="https://count.getloli.com/get/@:mizutama1233"/>
 
